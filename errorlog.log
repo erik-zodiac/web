@@ -1,0 +1,1 @@
+2016/03/10 19:16:05 [error] 11569#0: *5 open() "/home/box/web/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
